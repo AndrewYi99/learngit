@@ -3,4 +3,7 @@
 *.a
 # lib.a除外
 !lib.a
-
+# 忽略build目录下的所有文件
+build/
+# ignore all 。txt files in the doc/ directory
+doc/**/*.txt
