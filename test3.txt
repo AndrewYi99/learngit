@@ -1,0 +1,3 @@
+test for git status to view diffrent status
+add a word
+aaaa
