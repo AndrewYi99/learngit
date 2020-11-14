@@ -1,1 +1,0 @@
-test for git rm --cached test5.txt
